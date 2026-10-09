@@ -74,3 +74,4 @@ The Channels project is made up of several packages; the others are:
 * `channels_redis <https://github.com/django/channels_redis/>`_, the Redis channel backend
 * `asgiref <https://github.com/django/asgiref/>`_, the base ASGI library/memory backend
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
