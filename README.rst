@@ -1,4 +1,4 @@
-Django Channels
+#Django Channels
 ===============
 
 .. image:: https://github.com/django/channels/workflows/Tests/badge.svg?branch=master
@@ -73,5 +73,4 @@ The Channels project is made up of several packages; the others are:
 * `Daphne <https://github.com/django/daphne/>`_, the HTTP and Websocket termination server
 * `channels_redis <https://github.com/django/channels_redis/>`_, the Redis channel backend
 * `asgiref <https://github.com/django/asgiref/>`_, the base ASGI library/memory backend
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
